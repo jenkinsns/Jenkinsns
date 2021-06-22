@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Community Contributions
 - 💬 Ask me about Microsft Teams Apps, SPfx and Power Platform
 - 📫 How to reach me: [@jenkinsns](https://twitter.com/jenkinsns)
-- 📙 My publications: [Building Solutions with Microsoft Teams](https://www.amazon.co.uk/Building-Solutions-Microsoft-Teams-Understanding-ebook/dp/B08R1F3KW5)
+- 📙 My publications: [Building Solutions with Microsoft Teams](https://www.amazon.in/Building-Solutions-Microsoft-Teams-Understanding-ebook/dp/B08R1F3KW5)
 - 📰 Read my blogs at: http://www.jenkinsblogs.com
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jenkinsns&show_icons=true)
