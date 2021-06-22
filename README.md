@@ -1,4 +1,4 @@
-### Hi there, Jenkins NS here! 👋
+### Hi, Jenkins NS here! 👋
 
 ![](https://img.shields.io/badge/Microsoft-MVP-blue)
 ![](https://img.shields.io/badge/Microsoft-MCT-red)
