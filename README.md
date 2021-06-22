@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/SPFx-Specialst-blue)
 ![](https://img.shields.io/badge/PowerPlatform-Specialst-teal)
 
-🎙 Internation Speaker | Author | YouTuber
+🎙 International Speaker | Author | YouTuber
 
 - 🔭 I’m currently working on Microsft Teams Apps, SPfx, SharePoint Power Apps, Power BI, Power Automate and Azure
 - 🌱 I’m currently learning M365 new features
